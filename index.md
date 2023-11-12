@@ -1,6 +1,8 @@
-## Welcome to My github page
+## Welcome to mickalford's page
 
 You can use the [editor on GitHub](https://github.com/mickalford/mickalford/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Not that most people will do this, and it's not why you're here
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
